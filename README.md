@@ -1,5 +1,5 @@
 # DLSprint2022-Champion
-Winning Solution of DLSprint2022. The task was Automatic Speech Recognition on the Common Voices BN dataset. The model we used was wav2vec2.
+Winning Solution of DLSprint2022, under the teamname -- *YellowKing* (*YKG*). The task was Automatic Speech Recognition on the Common Voices BN dataset. The model we used was wav2vec2.
 
 ### Competition Link and Final Leaderboard
 [DLSprint2022 Kaggle](https://www.kaggle.com/competitions/dlsprint/discussion/349991)
